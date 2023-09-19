@@ -1,9 +1,12 @@
 # Upwork-Profile
 how to create upwork Profile
 # Traack Activities of the Upwork Profile
-1. Account Creation
-2. Profile Picture
-3. Common Tools Free/Commercial
+1.Freekance mindset 
+   create time and deciplane 
+   to do and avoid traps
+2. Account Creation
+3. Profile Picture
+4. Common Tools Free/Commercial
    VS Code
    Git hub
    Git Lab
