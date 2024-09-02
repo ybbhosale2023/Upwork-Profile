@@ -1,6 +1,6 @@
 # Upwork-Profile
 how to create upwork Profile
-# Traack Activities of the Upwork Profile
+# Track Activities of the Upwork Profile
 1.Freekance mindset 
    create time and deciplane 
    to do and avoid traps
